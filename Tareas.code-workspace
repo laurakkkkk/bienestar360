@@ -1,0 +1,50 @@
+{
+	"folders": [
+		{
+			"path": "../../../Users/Usuario/Downloads/Tareas (1)/Tareas"
+		},
+		{
+			"path": "../../../Users/Usuario/Desktop/blackbox"
+		},
+		{
+			"path": "../crud"
+		},
+		{
+			"path": "../../../Users/Usuario/Downloads/Phython/Phython"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../pruebascuatro"
+		},
+		{
+			"path": "../../../Users/Usuario/Desktop/Pruebas"
+		},
+		{
+			"path": "../../../Users/Usuario/Desktop/Ecommerce"
+		},
+		{
+			"path": "../../../Users/Usuario/Desktop/bienestar"
+		},
+		{
+			"path": "../../../Users/Usuario/Desktop/ecomerce2"
+		},
+		{
+			"path": "../ecomerce2"
+		},
+		{
+			"path": "../../../Users/Usuario/Desktop/ecomerce2/INVENTARIO-main"
+		},
+		{
+			"path": "../ecommerce"
+		},
+		{
+			"path": "../../../Users/Usuario/Desktop/TechStoreX"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "ecomerce2"
+	}
+}
